@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+##### Lista: lugares favoritos
+- Montañas nevadas
+  - Cabaña
+- Noches con muchas estrellas
+- Casas abandonadas
